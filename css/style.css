@@ -1,0 +1,183 @@
+body {
+    font-family: "PT Serif", serif;
+}
+
+.bg-yellow {
+    background: hsla(192, 17%, 94%, 1);
+
+    background: linear-gradient(225deg, hsla(192, 17%, 94%, 1) 14%, hsla(197, 15%, 82%, 1) 34%, hsla(197, 14%, 57%, 1) 74%);
+
+    background: -moz-linear-gradient(225deg, hsla(192, 17%, 94%, 1) 14%, hsla(197, 15%, 82%, 1) 34%, hsla(197, 14%, 57%, 1) 74%);
+
+    background: -webkit-linear-gradient(225deg, hsla(192, 17%, 94%, 1) 14%, hsla(197, 15%, 82%, 1) 34%, hsla(197, 14%, 57%, 1) 74%);
+
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#EEF2F3", endColorstr="#C9D3D7", GradientType=1 );
+}
+
+.bg-nav {
+    background-color: white;
+}
+
+.image-write {
+    position:relative
+}
+
+.image {
+    opacity: 88%;
+}
+
+.image-kap {
+    position:absolute;left:10px;top:10px;
+}
+
+.bg2 {
+    background-color: #f5f5f5;
+}
+
+.bg3 {
+    background-color: #f2f2f2;
+}
+
+
+.border-above-dark {
+    border-bottom: 1px solid rgba(30, 30, 30, 0.25)
+}
+
+.corners {
+    border-radius: 1px;
+    background: cadetblue;
+    padding: 1px;
+    width: 600px;
+    height: 300px;
+}
+
+
+p {
+    font-size: 90%;
+    color: #787878
+}
+
+
+.p-white {
+    font-size: 85%;
+    color: white;
+}
+
+.satisfaction {
+    background-color: white;
+}
+
+.shadow {
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.percent {
+    color: black;
+    font-weight: revert;
+}
+
+.icons {
+    width: 100px;
+    height: 100px;
+
+}
+
+.buttons {
+    background: hsla(206, 91%, 66%, 1);
+
+    background: linear-gradient(90deg, hsla(206, 91%, 66%, 1) 0%, hsla(190, 90%, 51%, 1) 100%);
+
+    background: -moz-linear-gradient(90deg, hsla(206, 91%, 66%, 1) 0%, hsla(190, 90%, 51%, 1) 100%);
+
+    background: -webkit-linear-gradient(90deg, hsla(206, 91%, 66%, 1) 0%, hsla(190, 90%, 51%, 1) 100%);
+
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#5AB2F7", endColorstr="#12CFF3", GradientType=1 );
+}
+
+.footer-bg {
+    background-color: #e8e8e8;
+
+}
+
+
+.masthead {
+    padding-top: 10.5rem;
+    padding-bottom: 18rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("../assets/img/teodor-drobota-ewT5lVjL9yQ-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+.masthead-font {
+    font-size: 55px;
+    color: black;
+    font-family: "PT Serif", serif;
+}
+.masthead-header-font {
+    font-size: 30px;
+    color: black;
+
+}
+
+.about-us-blog-title {
+    color: black;
+    font-family: "PT Serif", serif;
+
+}
+
+.about-us-blog-text {
+    color: #696969;
+    font-size: 110%;
+}
+
+.footer-text {
+    color: black;
+}
+
+.bg-border {
+    background-color: black;
+}
+
+.cards-title {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+    color: black;
+
+}
+
+.cards-bg {
+    background-color: black;
+}
+
+.p-darkgrey {
+    color: #696969;
+    font-size: 100%;
+}
+
+.boxes-font {
+    color: white;
+}
+
+.footer-bg2 {
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
